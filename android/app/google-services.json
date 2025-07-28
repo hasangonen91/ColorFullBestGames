@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229320222771",
+    "project_id": "nline-bb284",
+    "storage_bucket": "nline-bb284.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229320222771:android:24df9d50cc836b19cd1b46",
+        "android_client_info": {
+          "package_name": "com.colorfullbestgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS19aI06UtP4tfflc0iJdIqPdCNporpYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
