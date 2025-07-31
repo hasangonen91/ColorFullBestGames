@@ -3,6 +3,12 @@ import React
 import React_RCTAppDelegate
 import ReactAppDependencyProvider
 
+#if DEBUG
+#if FB_SONARKIT_ENABLED
+import FlipperKit
+#endif
+#endif
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
   var window: UIWindow?
